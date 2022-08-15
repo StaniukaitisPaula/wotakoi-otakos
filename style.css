@@ -1,0 +1,147 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.intro{
+height: 235px;
+width: 1535px;
+object-fit: cover;
+background-color: aliceblue;
+}
+.titulo{
+    font-size: 60px;
+    font-weight: 900;
+    width: 1500px;
+    text-align: center;
+    background-color: #e95289;
+    color: aliceblue;
+    padding: 16px;
+}
+.subtitulo{
+    font-size: 40px;
+    font-weight: 700;
+    width: 1500px;
+    text-align: center;
+    padding: 16px;
+    background-color: #e95289;   
+    color: beige;
+}
+.sinopse{
+    height: 230px;
+    font-size: 25px;
+    
+}
+.logo2{
+    width: 1530px;
+    height: 400px;
+    padding: 0px;
+    object-fit: contain;
+}
+.subtitulo-destaque{
+    padding: 3px;
+    font-size: 50px;
+}
+.container{
+    width: 700px;
+}
+.HANAKO{
+    background-color: #c7e796;
+    padding: 8px;
+    font-size: 30px;
+}
+.HANAKO2{
+    font-size: 25PX;
+}  
+.tarou{
+    background-color: #fdbca0;
+    padding: 8px;
+    font-size: 30px;
+}
+.TAROU{
+    font-size: 25px;
+}
+.Narumi{
+    background-color: #ffbad9;
+    padding: 8px;
+    font-size: 30px;
+}
+.NARUMI{
+    font-size: 25px;
+}
+.Hirotaka{
+    background-color: #94d5fd;
+    padding: 8px;
+    font-size: 30px;
+}
+.HIROTAKA{
+    font-size: 25px;
+}
+.Ko{
+    background-color: #d9c8ec;
+    padding: 8px;
+    font-size: 30px;
+}
+.KO{
+    font-size: 25px;
+}
+.Naoya{
+    background-color: #feeaad;
+    padding: 8px;
+    font-size: 30px;
+}
+.NAOYA{
+    font-size: 25px;
+}
+.OTAKUS{
+    width: 1530px;
+    height: 400px;
+    padding: 0px;
+    object-fit: contain;
+}
+.A{
+    font-size: 30px;
+    text-align: center;
+    background-color: #ff9c00;
+}
+.B{
+    font-size: 30px;
+    text-align: center;
+}
+.C{
+    font-size: 30px;
+    text-align: center;
+}
+.D{
+    font-size: 30px;
+    text-align: center;
+    
+}
+.E{
+    font-size: 30px;
+    text-align: center;
+    
+}
+.F{
+    font-size: 30px;
+    text-align: center;
+}
+.G{
+    font-size: 30px;
+    text-align: center;
+}
+.H{
+    font-size: 30px;
+    text-align: center;
+}
+.GIF{
+    width: 1530px;
+    height: 400px;
+    padding: 0px;
+    object-fit: contain;
+}
+.final{
+    text-align: center;
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+
