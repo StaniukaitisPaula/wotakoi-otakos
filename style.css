@@ -30,7 +30,7 @@ text-align: center;
 .sinopse{
     height: 230px;
     font-size: 25px;
-    
+    margin: 30px;
 }
 .logo2{
     width: 1700px;
@@ -41,6 +41,7 @@ text-align: center;
 .subtitulo-destaque{
     padding: 3px;
     font-size: 50px;
+    margin: 30px;
 }
 .container{
     width: 700px;
@@ -49,49 +50,61 @@ text-align: center;
     background-color: #c7e796;
     padding: 8px;
     font-size: 30px;
+    margin: 30px;
 }
 .HANAKO2{
     font-size: 25PX;
+    margin: 30px;
 }  
 .tarou{
     background-color: #fdbca0;
     padding: 8px;
     font-size: 30px;
+    margin: 30px;
 }
 .TAROU{
     font-size: 25px;
+    margin: 30px;
 }
 .Narumi{
     background-color: #ffbad9;
     padding: 8px;
     font-size: 30px;
+    margin: 30px;
 }
 .NARUMI{
     font-size: 25px;
+    margin: 30px;
 }
 .Hirotaka{
     background-color: #94d5fd;
     padding: 8px;
     font-size: 30px;
+    margin: 30px;
 }
 .HIROTAKA{
     font-size: 25px;
+    margin: 30px;
 }
 .Ko{
     background-color: #d9c8ec;
     padding: 8px;
     font-size: 30px;
+    margin: 30px;
 }
 .KO{
     font-size: 25px;
+    margin: 30px;
 }
 .Naoya{
     background-color: #feeaad;
     padding: 8px;
     font-size: 30px;
+    margin: 30px;
 }
 .NAOYA{
     font-size: 25px;
+    margin: 30px;
 }
 .OTAKUS{
     width: 1700px;
